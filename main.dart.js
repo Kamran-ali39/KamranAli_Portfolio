@@ -74134,7 +74134,7 @@ A.GX.prototype={
 L(a){var s=null,r=A.dK(20),q=A.a([B.aM,B.cB],t.W)
 return A.m6(!1,s,!0,A.cX(B.a4,A.eG(A.a([A.dd("Download CV",s,s,A.ao(a).p2.ax.Nn(B.i,B.ab,1.2)),B.QF,B.Hh],t.p),B.N,B.D,B.R),B.t,s,s,new A.cP(s,s,s,r,B.iz,new A.h9(B.kz,B.ky,B.a3,q,s,s),B.a9),s,s,s,B.Gw,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a_g(),s,s,s,s)}}
 A.a_g.prototype={
-$0(){A.k7(A.ep("https://drive.google.com/file/d/1j_jyw-fyTbXyhl9qTeey8kRR4KUikZft/view?usp=sharing",0,null))},
+$0(){A.k7(A.ep("https://drive.google.com/file/d/1mcojDQ4rhJRYd6-b5YrSU-WpzS4toZoW/view?usp=sharing",0,null))},
 $S:0}
 A.oL.prototype={
 L(a){var s=this.c,r=this.d,q=t.Y,p=t.i,o=A.mV(new A.a77(),B.V,new A.ay(s,r,q),p),n=A.aL(a,B.x,t.w).w
