@@ -70771,7 +70771,7 @@ A.Fq.prototype={
 L(a){var s=null,r=A.dy(20),q=A.b([B.aL,B.cz],t.W)
 return A.lN(!1,s,!0,A.cO(B.a3,A.eq(A.b([A.d3("Download CV",s,s,A.ak(a).p2.ax.Mb(B.i,B.ab,1.2)),B.PZ,B.GX],t.p),B.L,B.C,B.P),B.t,s,s,new A.cE(s,s,s,r,B.iw,new A.fS(B.ku,B.kt,B.a2,q,s,s),B.a9),s,s,s,B.Gb,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Y6(),s,s,s,s)}}
 A.Y6.prototype={
-$0(){A.jK(A.ex("https://drive.google.com/file/d/1j_jyw-fyTbXyhl9qTeey8kRR4KUikZft/view?usp=sharing",0,null))},
+$0(){A.jK(A.ex("https://drive.google.com/file/d/1mcojDQ4rhJRYd6-b5YrSU-WpzS4toZoW/view?usp=sharing",0,null))},
 $S:0}
 A.og.prototype={
 L(a){var s=this.c,r=this.d,q=t.Y,p=t.i,o=A.mA(new A.a4z(),B.T,new A.av(s,r,q),p),n=A.aG(a,B.x,t.w).w
