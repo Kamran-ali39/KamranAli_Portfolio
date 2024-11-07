@@ -70771,13 +70771,13 @@ A.Fq.prototype={
 L(a){var s=null,r=A.dy(20),q=A.b([B.aL,B.cz],t.W)
 return A.lN(!1,s,!0,A.cO(B.a3,A.eq(A.b([A.d3("Download CV",s,s,A.ak(a).p2.ax.Mb(B.i,B.ab,1.2)),B.PZ,B.GX],t.p),B.L,B.C,B.P),B.t,s,s,new A.cE(s,s,s,r,B.iw,new A.fS(B.ku,B.kt,B.a2,q,s,s),B.a9),s,s,s,B.Gb,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Y6(),s,s,s,s)}}
 A.Y6.prototype={
-$0(){A.jK(A.ex("https://drive.google.com/file/d/1mcojDQ4rhJRYd6-b5YrSU-WpzS4toZoW/view?usp=sharing",0,null))},
+$0(){A.jK(A.ex("https://drive.google.com/file/d/1mcojDQ4rhJRYd6-b5YrSU-WpzS4toZoW/view?usp=drive_link",0,null))},
 $S:0}
 A.og.prototype={
 L(a){var s=this.c,r=this.d,q=t.Y,p=t.i,o=A.mA(new A.a4z(),B.T,new A.av(s,r,q),p),n=A.aG(a,B.x,t.w).w
 return A.eq(A.b([o,n.a.a<=700?A.mA(new A.a4A(),B.T,new A.av(s,r,q),p):A.am5(A.mA(new A.a4B(),B.T,new A.av(s,r,q),p),new A.a4C())],t.p),B.L,B.C,B.P)}}
 A.a4z.prototype={
-$3(a,b,c){return A.d3("Kamran's ",null,null,A.ak(a).p2.d.AF(B.i,b,B.cB,0))},
+$3(a,b,c){return A.d3("My ",null,null,A.ak(a).p2.d.AF(B.i,b,B.cB,0))},
 $S:54}
 A.a4A.prototype={
 $3(a,b,c){return A.d3("Flutter Portfolio ",null,null,A.ak(a).p2.d.AF(B.i,b,B.cB,0))},
